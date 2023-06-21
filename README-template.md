@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
--Solution URL: [https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox--R8njzrfgT] (https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox--R8njzrfgT)
--Live site URL: [https://shanmab.github.io/3-Column-Preview-Card-Component/] (https://shanmab.github.io/3-Column-Preview-Card-Component/)
+-Solution URL: [https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-using-css-flexbox--R8njzrfgT] 
+-Live site URL: [https://shanmab.github.io/3-Column-Preview-Card-Component/] 
 
 ## My process
 
